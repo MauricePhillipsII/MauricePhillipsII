@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MauricePhillipsII/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MauricePhillipsII/azure-network-protocols)
  - <b>AWS</b>
-  - [AWS VPC Peering connection](https://github.com/MauricePhillipsII/AWS-VPC-Peering)
+    - [AWS VPC Peering connection](https://github.com/MauricePhillipsII/AWS-VPC-Peering)
     
 
 
